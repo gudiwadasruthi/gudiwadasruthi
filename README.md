@@ -6,12 +6,6 @@ I’m a curious learner exploring how applications are designed, built, deployed
 Learning by building, breaking, and improving projects step by step.
 </p>
 
----
-
-### 🔭 Currently Exploring
-- End-to-end application development  
-- Backend logic, databases & app architecture  
-- Deployment and maintenance basics  
 
 ---
 
@@ -26,10 +20,6 @@ Learning by building, breaking, and improving projects step by step.
 - Beginner-friendly app & academic projects  
 - Learning-focused tech experiments  
 
----
-
-### 💬 Ask Me About
-App development basics, AWS fundamentals & student tech projects  
 
 ---
 
