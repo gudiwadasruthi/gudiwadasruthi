@@ -39,7 +39,7 @@ I deploy first… then learn why it broke 😄☁️
 <h4>💻 Programming Languages</h4>
 <p align="left">
   <a href="https://www.cprogramming.com/" title="C" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" style="margin:28px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" style="margin:78px;"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" title="C++" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" style="margin:8px;"/>
