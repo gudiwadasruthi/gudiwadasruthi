@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sruthi</h1>
-<h3 align="center">CSE Student @ SRM University | AI/ML Enthusiast | Cloud & App Dev Learner</h3>
+<h3 align="center">Full Stack Developer | Backend-Focused | React • FastAPI • Systems</h3>
 
 <p align="center">
-I’m a curious learner exploring how applications are designed, built, deployed, and maintained.<br/>
-Learning by building, breaking, and improving projects step by step.
+I enjoy building real-world applications with a focus on backend systems, APIs, and scalable architectures.<br/>
+Learning by building, breaking, and improving systems step by step 🚀
 </p>
 
 
