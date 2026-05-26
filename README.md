@@ -219,9 +219,6 @@ A TypeScript-based application project showcasing modern app architecture and co
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=gudiwadasruthi&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudiwadasruthi&layout=compact&theme=tokyonight&hide_border=true&title_color=FF6B9D" width="40%" />
 
 </div>
 
@@ -231,19 +228,7 @@ A TypeScript-based application project showcasing modern app architecture and co
 
 <br/>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gudiwadasruthi&theme=darkhub&no-frame=true&column=3&margin-w=20&margin-h=20&no-bg=true" width="700" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
 
 ## 🔗 Let's Connect
 
